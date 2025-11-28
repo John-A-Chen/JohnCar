@@ -71,9 +71,7 @@ Anything car-related with future value gets added.
 
 /cad            3D models, mounts, fixtures
 /docs           Car notes, service logs, measurements
-/electronics    OBD-II, CAN, sensor tests
-/parts          Any printable or fabricated components
-/photos         Reference images
+/print          Any printable or fabricated components
 README.md       This documentation
 
 ```
