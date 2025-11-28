@@ -58,4 +58,35 @@ Depending on ongoing projects, this repo might contain:
 
 ### Miscellaneous  
 - Tool lists for specific jobs  
-- Part nu
+- Part numbers  
+- Photos and sketches  
+- Troubleshooting notes  
+
+Anything car-related with future value gets added.
+
+---
+
+## Repository Structure  
+```
+
+/cad            3D models, mounts, fixtures
+/docs           Car notes, service logs, measurements
+/electronics    OBD-II, CAN, sensor tests
+/parts          Any printable or fabricated components
+/photos         Reference images
+README.md       This documentation
+
+```
+
+---
+
+## Future Additions  
+- More detailed service documentation  
+- Fusion 360 / SolidWorks files for complex parts  
+- Bench testing results for ECU/sensors  
+- Custom telemetry setups  
+- Small automotive engineering studies  
+- Printable part library  
+
+---
+
